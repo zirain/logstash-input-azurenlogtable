@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Logstash Plugin
 
 This is a plugin for [Logstash](https://github.com/elastic/logstash).
@@ -85,7 +84,3 @@ Programming is not a required skill. Whatever you've seen about open source and 
 It is more important to the community that you are able to contribute.
 
 For more information about contributing, see the [CONTRIBUTING](https://github.com/elastic/logstash/blob/master/CONTRIBUTING.md) file.
-=======
-# logstash-input-azurenlogtable
-This plugin collects NLog data from Azure Storage Tables.
->>>>>>> b7f1ee014a7b34681189c3246bb4c1caf0af691d
