@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name          = 'logstash-input-azurenlogtable'
-  s.version       = '0.1.0'
+  s.version       = '0.1.1'
   s.licenses      = ['Apache-2.0']
   s.summary       = 'This plugin collects NLog data from Azure Storage Tables.'
   s.description   = 'This gem is a Logstash plugin. It reads and parses NLog data from Azure Storage Tables.'
